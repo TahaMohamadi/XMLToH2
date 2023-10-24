@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MOTree>
+    <MO className="6910UMTSNE" fdn="NE=1236">
+        	<Attr name="fdn">NE=1236</Attr>
+        	<Attr name="IP">0.0.0.0</Attr>
+        	<Attr name="MOIndex">981</Attr>
+        	<Attr name="className">6910UMTSNE</Attr>
+        	<Attr name="isOffline">1</Attr>
+        	<Attr name="latitude">303</Attr>
+        	<Attr name="locationName">Center</Attr>
+        	<Attr name="longitude">418</Attr>
+        	<Attr name="matchVersion">UMTS_MATCH_ENG</Attr>
+        	<Attr name="name">Tehran</Attr>
+        	<Attr name="neID">981</Attr>
+        	<Attr name="neType">6910UMTS</Attr>
+        	<Attr name="neVersion">PC530</Attr>
+        	<Attr name="realLatitude">0.0</Attr>
+        	<Attr name="realLongitude">0.0</Attr>
+        	<Attr name="vendorName">MCI</Attr>
+        	<Attr name="DaylightSaveInfo">NO_///_///_/_/</Attr>
+        	<Attr name="TimeZone">GMT_E_3_30</Attr>
+		</MO>
+	<MO className="BSC6910UMTSADJNODE" fdn="NE=1236,ADJNODE=8216">
+            <Attr name="fdn">NE=1236,ADJNODE=8216</Attr>
+            <Attr name="ADJNODENAME">THU456</Attr>
+            <Attr name="ANI">8216</Attr>
+            <Attr name="MOIndex">981_8216</Attr>
+            <Attr name="NODEBID">8216</Attr>
+            <Attr name="NODET">IUB</Attr>
+            <Attr name="TRANST">IP</Attr>
+            <Attr name="className">BSC6910UMTSADJNODE</Attr>
+            <Attr name="name">Label=THU456, ANI=8216</Attr>
+            <Attr name="neID">981</Attr>
+        </MO>
+	<MO className="BSC6910UMTSCELLSELRESEL" fdn="NE=1236,CELLSELRESEL=1572_64">
+            <Attr name="fdn">NE=1236,CELLSELRESEL=1572_64</Attr>
+            <Attr name="CELLID">1572</Attr>
+            <Attr name="CONNQHYST1S">2</Attr>
+            <Attr name="CONNQHYST2S">1</Attr>
+            <Attr name="CONNSINTERSEARCH">3</Attr>
+            <Attr name="CONNSINTRASEARCH">4</Attr>
+            <Attr name="IDLEQHYST1S">2</Attr>
+            <Attr name="IDLEQHYST2S">1</Attr>
+            <Attr name="IDLESINTERSEARCH">3</Attr>
+            <Attr name="IDLESINTRASEARCH">4</Attr>
+            <Attr name="INTERFREQTRESELSCALINGFACTOR">255</Attr>
+            <Attr name="INTERRAttrESELSCALINGFACTOR">4</Attr>
+            <Attr name="LOGICRNCID">64</Attr>
+            <Attr name="MAXALLOWEDULTXPOWER">24</Attr>
+            <Attr name="MOIndex">981_1572_64</Attr>
+            <Attr name="NONHCSIND">NOT_CONFIGURED</Attr>
+            <Attr name="QHYST1SFACH">255</Attr>
+            <Attr name="QHYST1SPCH">255</Attr>
+            <Attr name="QHYST2SFACH">255</Attr>
+            <Attr name="QHYST2SPCH">255</Attr>
+            <Attr name="QQUALMIN">-20</Attr>
+            <Attr name="QRXLEVMIN">-39</Attr>
+            <Attr name="QRXLEVMINEXTSUP">FALSE</Attr>
+            <Attr name="QUALMEAS">CPICH_ECNO</Attr>
+            <Attr name="SPEEDDEPENDENTSCALINGFACTOR">255</Attr>
+            <Attr name="SSEARCHRAT">1</Attr>
+            <Attr name="TRESELECTIONS">1</Attr>
+            <Attr name="TRESELECTIONSFACH">255</Attr>
+            <Attr name="TRESELECTIONSPCH">255</Attr>
+            <Attr name="className">BSC6910UMTSCELLSELRESEL</Attr>
+            <Attr name="name">Cell ID=1572, Logical RNC ID=64</Attr>
+            <Attr name="neID">981</Attr>
+        </MO>
+	<MO className="BSC6910UMTSGSMNCELL" fdn="NE=1236,GSMNCELL=60993_12995_64">
+            <Attr name="fdn">NE=1236,GSMNCELL=60993_12995_64</Attr>
+            <Attr name="BLINDHOFLAG">FALSE</Attr>
+            <Attr name="CELLID">60993</Attr>
+            <Attr name="CIOOFFSET">0</Attr>
+            <Attr name="DRDECN0THRESHHOLD">-18</Attr>
+            <Attr name="GSMCELLINDEX">12995</Attr>
+            <Attr name="MBDRFLAG">FALSE</Attr>
+            <Attr name="MBDRPRIO">0</Attr>
+            <Attr name="MOIndex">981_64_60993_12995</Attr>
+            <Attr name="NPRIOFLAG">FALSE</Attr>
+            <Attr name="QOFFSET1SN">0</Attr>
+            <Attr name="QRXLEVMIN">-50</Attr>
+            <Attr name="RNCID">64</Attr>
+            <Attr name="SIB11IND">TRUE</Attr>
+            <Attr name="SIB12IND">FALSE</Attr>
+            <Attr name="TEMPOFFSET1">D3</Attr>
+            <Attr name="TPENALTYHCSRESELECT">D0</Attr>
+            <Attr name="className">BSC6910UMTSGSMNCELL</Attr>
+            <Attr name="name">Cell ID=60993,  Index=12995, RNC ID=64</Attr>
+            <Attr name="neID">981</Attr>
+        </MO>
+	<MO className="BSC6910UMTSINTRAFREQNCell" fdn="NE=1236,INTRAFREQNCELL=2192_42044_64_64">
+            <Attr name="fdn">NE=1236,INTRAFREQNCELL=2192_42044_64_64</Attr>
+            <Attr name="CELLID">2192</Attr>
+            <Attr name="CIOOFFSET">0</Attr>
+            <Attr name="IDLEQOFFSET1SN">0</Attr>
+            <Attr name="IDLEQOFFSET2SN">0</Attr>
+            <Attr name="MOIndex">981_64_2192_64_42044</Attr>
+            <Attr name="NCELLID">42044</Attr>
+            <Attr name="NCELLRNCID">64</Attr>
+            <Attr name="NRNCID">64</Attr>
+            <Attr name="className">BSC6910UMTSINTRAFREQNCell</Attr>
+            <Attr name="name">Cell ID=2192, Neighboring Cell ID=42044, RNC ID of a neighboring cell=64, RNC ID=64</Attr>
+            <Attr name="neID">981</Attr>
+        </MO>
+	<MO className="BTS3900CNOPERATORTA" fdn="NE=962,CNOPERATORTA=0_0">
+            <Attr name="fdn">NE=962,CNOPERATORTA=0_0</Attr>
+            <Attr name="CNOPERATORID">0</Attr>
+            <Attr name="ENODEBFUNCTIONNAME">TD123</Attr>
+            <Attr name="MOIndex">707_0_0</Attr>
+            <Attr name="NBIOTTAFLAG">BOOLEAN_FALSE</Attr>
+            <Attr name="TAC">45223</Attr>
+            <Attr name="TRACKINGAREAID">0</Attr>
+            <Attr name="className">BTS3900CNOPERATORTA</Attr>
+            <Attr name="name">Object ID=0, Local tracking area ID=0</Attr>
+            <Attr name="neID">707</Attr>
+        </MO>
+	<MO className="BTS3900CNOPERATORTA" fdn="NE=962,CNOPERATORTA=0_0">
+            <Attr name="fdn">NE=962,CNOPERATORTA=0_0</Attr>
+            <Attr name="CNOPERATORID">0</Attr>
+            <Attr name="ENODEBFUNCTIONNAME">TD456</Attr>
+            <Attr name="MOIndex">707_0_0</Attr>
+            <Attr name="NBIOTTAFLAG">BOOLEAN_FALSE</Attr>
+            <Attr name="TAC">123456</Attr>
+            <Attr name="TRACKINGAREAID">0</Attr>
+            <Attr name="className">BTS3900CNOPERATORTA</Attr>
+            <Attr name="name">Object ID=0, Local tracking area ID=0</Attr>
+            <Attr name="neID">707</Attr>
+        </MO>
+	<MO className="BTS3900ENODEBFUNCTION" fdn="NE=962,ENODEBFUNCTION=0">
+            <Attr name="fdn">NE=962,ENODEBFUNCTION=0</Attr>
+            <Attr name="ENODEBFUNCTIONNAME">TD987</Attr>
+            <Attr name="ENODEBID">92155</Attr>
+            <Attr name="MOIndex">707_0</Attr>
+            <Attr name="className">BTS3900ENODEBFUNCTION</Attr>
+            <Attr name="name">eNodeB Function Name=TD987</Attr>
+            <Attr name="neID">707</Attr>
+        </MO>
+</MOTree>
